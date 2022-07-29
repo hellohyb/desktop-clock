@@ -1,0 +1,10 @@
+E:\desktopTime\Desktop Clock\bin\Release\Desktop Clock.exe.config
+E:\desktopTime\Desktop Clock\bin\Release\Desktop Clock.exe
+E:\desktopTime\Desktop Clock\bin\Release\Desktop Clock.pdb
+E:\desktopTime\Desktop Clock\obj\Release\Desktop_Clock.Form1.resources
+E:\desktopTime\Desktop Clock\obj\Release\Desktop_Clock.Properties.Resources.resources
+E:\desktopTime\Desktop Clock\obj\Release\Desktop Clock.csproj.GenerateResource.cache
+E:\desktopTime\Desktop Clock\obj\Release\Desktop Clock.csproj.CoreCompileInputs.cache
+E:\desktopTime\Desktop Clock\obj\Release\Desktop Clock.exe
+E:\desktopTime\Desktop Clock\obj\Release\Desktop Clock.pdb
+E:\desktopTime\Desktop Clock\obj\Release\Desktop Clock.csproj.AssemblyReference.cache
